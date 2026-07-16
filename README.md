@@ -294,15 +294,6 @@ This project is licensed under the MIT License - see the [LICENSE](./LICENSE) fi
 
 ---
 
-## 📧 Contact & Support
-
-- **Email**: support@truthlens.io
-- **Documentation**: https://docs.truthlens.io
-- **Issues**: https://github.com/yourusername/truthlens-v7/issues
-- **Discussions**: https://github.com/yourusername/truthlens-v7/discussions
-
----
-
 ## 🙏 Acknowledgments
 
 - Built with React & Tailwind CSS
