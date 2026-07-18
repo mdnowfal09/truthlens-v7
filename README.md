@@ -316,5 +316,5 @@ This project is licensed under the MIT License - see the [LICENSE](./LICENSE) fi
 ---
 
 **Built with ❤️ to prevent fraud and protect businesses worldwide.**
-
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=mdnowfal09.truthlens-v7)
 ⭐ If you find this project useful, please star it on GitHub!
