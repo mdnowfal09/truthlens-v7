@@ -4,6 +4,7 @@
 [![React](https://img.shields.io/badge/React-18.0+-blue.svg)](https://reactjs.org/)
 [![AI-Powered](https://img.shields.io/badge/AI--Powered-Fraud%20Detection-red.svg)](#features)
 [![Status](https://img.shields.io/badge/Status-Production%20Ready-green.svg)](#)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=mdnowfal09.truthlens-v7)
 
 > **Next-Generation AI-Powered Fraud Detection & Prevention Platform**
 > 
@@ -316,5 +317,4 @@ This project is licensed under the MIT License - see the [LICENSE](./LICENSE) fi
 ---
 
 **Built with ❤️ to prevent fraud and protect businesses worldwide.**
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=mdnowfal09.truthlens-v7)
 ⭐ If you find this project useful, please star it on GitHub!
